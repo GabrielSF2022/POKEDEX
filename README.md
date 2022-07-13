@@ -1,5 +1,7 @@
 # <div align="center">📌POKEDEX📌 </div>
-<p align="center">Pokedex simples, apenas para estudos, no futuro planijo modificá-la com uma API!!!!
+<H3 align="center">Pokedex simples, apenas para estudos, no futuro planejo modificá-la com uma API!!!!
+
+<br>
 
 ![Pokédex - Google Chrome 2022-07-13 12-50-01](https://user-images.githubusercontent.com/97768716/178777499-26edb136-c5f9-4684-a2c4-c4b1d905361c.gif)
 ![Design_sem_nome__4_-removebg-preview](https://user-images.githubusercontent.com/97768716/178777427-8c369451-7c06-41ff-a67d-d25bc674a46f.png)
